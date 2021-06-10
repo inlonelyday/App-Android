@@ -2,7 +2,8 @@
     {
         "id": "1",
         "nazwa": "Cruella",
-        "rok": "2021","dlugosc":"02:14:00",
+        "rok": "2021",
+        "dlugosc":"02:14:00",
         "ocena": "7.5",
         "liczba ocen": "6792",
         "rezyser": "Craig Gillespie",
